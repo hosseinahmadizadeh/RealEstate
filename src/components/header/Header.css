@@ -8,7 +8,11 @@
   padding-bottom: 1rem;
   color: var(--secondary);
 }
-
+.h-container img {
+  width: 120px;
+  height: 65px;
+  object-fit: cover;
+}
 .h-menu {
   gap: 2rem;
 }
