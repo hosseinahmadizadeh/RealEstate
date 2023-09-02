@@ -19,7 +19,7 @@ const Value = () => {
         <div className="flexCenter paddings innerWidth v-container">
           <div className="v-left">
             <div className="img-container">
-              <img src="value1.jpg" alt="" />
+              <img src="value4.jpg" alt="" />
             </div>
           </div>
           <div className="flexColStart v-right">

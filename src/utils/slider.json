@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Dallas",
+    "price": "149,900",
+    "detail": "3bed 2bath 320sqft - 1069 Titus Ave, Rochester, NY 14617",
+    "image": "./v1.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Chicago",
+    "price": "266,353",
+    "detail": "4bed 5bath 440sqft - 18 Dovetail Dr, Richmond Hill, ON L4E 5B1",
+    "image": "./v2.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Brooklyn",
+    "price": "235,853",
+    "detail": "3bed 4bath 415sqft - 1054 E 37th St, Brooklyn, NY 11210",
+    "image": "./v7.jpg"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Washington DC",
+    "price": "447,043",
+    "detail": "6bed 3bath 800sqft - 4610 Winnetka Ave, Woodland Hills, CA 91364",
+    "image": "./v4.jpg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Los Angeles",
+    "price": "100,353",
+    "detail": "4bed 2bath 250sqft- 19 Pioneer Dr, Tiny, ON L0L 1P1",
+    "image": "./v5.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Miami",
+    "price": "65,853",
+    "detail": "3bed 1bath 150sqft - 11461 Sunburst St, Sylmar, CA 91342",
+    "image": "./v6.jpg"
   }
 ]
