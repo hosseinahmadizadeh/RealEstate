@@ -6,7 +6,7 @@ import { HiVideoCamera } from "react-icons/hi2";
 import "./Contact.css";
 const Contact = () => {
   return (
-    <section className="c-wrapper">
+    <section className="c-wrapper" id="contact">
       <div className="paddings innerWidth flexCenter c-container">
         <div className="flexColStart c-left">
           <span className="orangeText">Our Contacts</span>
