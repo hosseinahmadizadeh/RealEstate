@@ -1,7 +1,10 @@
 import { useState } from "react";
-import "./Header.css";
+
 import { BiMenuAltRight } from "react-icons/bi";
 import OutsideClickHandler from "react-outside-click-handler";
+
+import "./Header.css";
+
 const Header = () => {
   const [menuOpened, setMenuOpened] = useState(false);
   const getMenuStyles = (menuOpened) => {
@@ -9,6 +12,7 @@ const Header = () => {
       return { right: !menuOpened && "-100%" };
     }
   };
+
   return (
     <section className="h-wrapper">
       <div className="flexCenter  innerWidth h-container">
